@@ -1,0 +1,7 @@
+dataset
+logs
+docs
+models
+.idea/
+.env
+__pycache__
