@@ -1,6 +1,11 @@
 pandas
-dotenv
+python-dotenv
 numpy
 streamlit
 plotly
+hydra-core
 torch
+chariots
+scikit-learn
+janome
+allennlp

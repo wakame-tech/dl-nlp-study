@@ -1,0 +1,3 @@
+preprocess:
+  csv_path: ${env:ROOT}/dataset/vtuber_movies_20191030.csv
+  pkl_path: ${env:ROOT}/dataset/vtuber_movies_20191030.pkl

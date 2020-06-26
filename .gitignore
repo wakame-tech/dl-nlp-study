@@ -1,7 +1,12 @@
-dataset
+dataset/*
+!dataset/Rakefile
+!dataset/sample.tsv
 logs
 docs
 models
 .idea/
 .env
 __pycache__
+
+# hydra outputs
+outputs/
